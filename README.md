@@ -7,3 +7,7 @@ Example of long pooling for integration purposes using SAFR plataform
 
 sh event_long_pooling.sh AUTHENTICATION AUTHORIZATION
 
+Example
+~~~~
+sh pooling.sh user:pwd main
+~~~~
